@@ -3,8 +3,11 @@ Generative Moon NFTs on Moonriver network to celebrate the launch of Moonriver o
 
 # Addresses on Moonriver
 MoonNFT deployed to: 0x57672aC637e8b984095c561f7b9fac931B44EF52
+
 Timelock deployed to: 0xF48867fdF8F9BbE2e46e28A514605990279584f9
+
 Delegate deployed to: 0x842175c8DC5720911ED1FB7fb6F55937E7A6F0AE
+
 Delegator deployed to: 0x9CA903861378Be4d3163f4Ba0E2b11D35Bf6658A
 
 # Advanced Sample Hardhat Project
